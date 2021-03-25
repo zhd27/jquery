@@ -1,0 +1,263 @@
+h2{
+	padding: 0;
+	margin: 0;
+}
+ul,li{
+	margin: 0;
+	padding: 0;
+}
+.jahid {
+	padding: 60px 0px;
+	margin: auto;
+	
+}
+.jahid img {
+	height: 450px;
+	display: block;
+	cursor: pointer;
+}
+.bad p{
+	text-align: center;
+	color: red;
+}
+.office{
+	text-align: center;
+}
+.office img{
+	padding: 20px 0px;
+}
+.office p{
+	text-align: justify;
+}
+.image{
+	padding: 50px 0px;
+	text-align: center;
+}
+.image img{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+
+.sort_start {
+
+	padding: 20px 0px;
+	text-align: center
+}
+.sort_start ul{
+	list-style: none;
+	display: inline-flex;
+	text-align: center;
+}
+.sort_start ul li{
+	width: 110px;
+	background-color: orange;
+	margin: 0px 12px;
+	padding: 8px 0px;
+	border-radius: 20px;
+	color: white;
+	font-weight: bold;
+
+	
+}
+.sort_start ul li a{
+	text-decoration: none;
+}
+.margin{
+	margin-top: 22px;
+}
+.filt h2{
+	text-align: center;
+}
+.Filter{
+	padding: 50px 0px;
+}
+.isoto ul{
+	list-style: none;
+	display:inline-flex;
+}
+.isoto{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.isoto ul li{
+
+	background-color: black;
+	color: white;
+	border-radius: 25px;
+	margin: 0px 12px;
+	font-weight: bold;
+	width: 100px;
+}
+.isoto ul li a{
+	cursor: pointer;
+	padding: 10px 20px;
+	display: block;
+}
+.images{
+	position: relative;
+	margin-bottom: 22px;
+}
+
+.overlay{
+	background: rgba(0,0,0,1);
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: wheat;
+	opacity: 0;
+	transition: all linear .3s;
+		display:flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.images:hover .overlay{
+	opacity: 1;
+	transition: all linear .3s;
+}
+.overlay a{
+	text-decoration: none;
+	color: wheat;
+}
+.filt h2{
+	text-align: center;
+}
+.nope{
+	text-align: center;
+	padding-top: 50px;
+}
+.counter{
+	font-size: 30px;
+	color: darkblue;
+	font-weight: 500;
+}
+.desig{
+	border: 1px dotted darkblue;
+	
+}
+.slidd{
+	text-align: center;
+	padding-top: 50px;
+}
+.slidd h2{
+	font-weight: 700;
+	padding: 20px 0px;
+	color: saddlebrown;
+		
+}
+.slick-initialized .slick-slide{
+	margin-left:10px;
+}
+.slick_slider img{
+	height: 450px;
+	cursor: pointer;
+}
+
+.slick-dots li{
+    height: 4px;
+	background-color: olive;
+}
+
+.slick-dots li.slick-active{
+    opacity: .75;
+   
+     color: red; 
+    height: 4px;
+    width: 20px;
+    background-color: red;
+  
+}
+.slick-dots li button::before {
+	color: transparent;
+}
+.slick-dots li.slick-active button:before{
+	color: transparent;
+}
+.prev{
+	position: absolute;
+	top: 50px;
+	left: 0;
+}
+
+i.fa.fa-angle-left.slick-arrow {
+    top: 47%;
+    position: absolute;
+    left: -52px;
+     background-color:rgba(0,0,0,.8);
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    cursor: pointer;
+	color: white;
+}
+
+i.fa.fa-angle-right.slick-arrow{
+	    top: 47%;
+    position: absolute;
+    right: -52px;
+    background-color:rgba(0,0,0,.8);
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    cursor: pointer;
+	color: white;
+}
+.only_venoboxxs img{
+	width: 350px;
+	height: 250px;
+	margin-bottom: 4px;
+}
+.sytle{
+	margin-bottom: 22px;
+}
+.sytle img{
+		width: 250px;
+	height: 250px;
+}
+.pretyph{
+	padding: 50px 0px;
+}
+#particles-js{
+	background-color: red;
+	text-align: center;
+	height: 450px;
+	
+}
+
+.particle{
+	position: relative;
+	color:white;
+		display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.particle h2{
+	background-color: rgba(0,0,0,.3);
+position: absolute;
+	padding: 10px 25px;
+	border-radius: 10px;
+}
+.progress-bar {
+    background-color: transparent
+}
+.progress-bar div span {
+	color: black;
+}
+
+
+
+
+

@@ -1,0 +1,91 @@
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+	
+    
+/*
+    .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+           text-align: center;
+           background-color: white;
+           color: black;
+          font-weight: 400;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: 400;
+        border: none;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .check,.checks{
+        display: none;
+    }
+    .navbar-nav .nav-item{
+        
+    }
+    .navbar-nav .nav-item .nav-link:hover{
+        background-color: #c9d0d8;
+    }
+*/
+    
+    
+    
+}
+
+/* 
+@media (min-width: 576px) and (max-width: 767.98px) {
+     .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+           text-align: center;
+           background-color: white;
+           color: black;
+          font-weight: 400;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: 400;
+        border: none;
+        border-radius: 5px;
+         border-bottom:1px solid #c9d0d8;
+    }
+    .navbar-nav .nav-item .check,.checks{
+        display: none;
+    }
+    .navbar-nav .nav-item{
+        
+    }
+    .navbar-nav .nav-item .nav-link:hover{
+        background-color: #c9d0d8;
+    }
+
+
+}
+   /*  
+@media (min-width: 768px) and (max-width: 991.98px){
+
+    
+    
+}
+/*   lg start */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+     
+}
+    
+/*   xl start */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+ 
+
+}
+    
+/* xxl */
+@media (min-width: 1400px) {
+    
+    
+}
+    
+
+
